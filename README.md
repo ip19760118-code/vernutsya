@@ -1,8 +1,3 @@
-<img width="477" height="986" alt="3" src="https://github.com/user-attachments/assets/67dd605c-f8a3-49a2-9c48-415b8bda8f27" />
-<img width="485" height="1005" alt="2" src="https://github.com/user-attachments/assets/6ce462c7-753c-4aa5-a472-9376c930ee54" />
-<img width="486" height="1011" alt="1" src="https://github.com/user-attachments/assets/8f74c559-b235-4c9f-badc-902ca6cb5d7d" />
-<div align="center">
-
 # 🍄 Вернутся
 
 **Навигатор для грибников — всегда знай дорогу к машине**
@@ -32,7 +27,7 @@
 > При редактировании этого файла на GitHub просто **перетащите скриншоты** в текстовое поле — GitHub сам загрузит их и вставит ссылки. Замените строки ниже на полученные.
 
 <p align="center">
-  <img src="screenshots/main.png" width="240" alt="Главный экран"/>
+  <img src="https://github.com/user-attachments/assets/e82cb256-b658-4a5b-9480-0f6b996b684d" width="240" height="499" alt="Главный экран"/>
   <img src="screenshots/map.png" width="240" alt="Офлайн-карта"/>
   <img src="screenshots/settings.png" width="240" alt="Настройки"/>
 </p>
