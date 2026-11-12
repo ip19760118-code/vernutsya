@@ -24,8 +24,6 @@
 
 ## 📸 Скриншоты
 
-> При редактировании этого файла на GitHub просто **перетащите скриншоты** в текстовое поле — GitHub сам загрузит их и вставит ссылки. Замените строки ниже на полученные.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e82cb256-b658-4a5b-9480-0f6b996b684d" width="240" height="499" alt="Главный экран"/>
   <img src="https://github.com/user-attachments/assets/303ccc6a-fef0-4a8c-893b-dff0ea95d5cc" width="240" height="497" alt="Офлайн-карта"/>
